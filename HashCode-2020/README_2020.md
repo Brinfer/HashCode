@@ -1,20 +1,6 @@
 # HashCode 2020
 
-<center>
-
-![alt text](./CoverPicture.jpg "Logo HashCode")
-
-</center>
-</br>
-
-This repository contains a possible solution for the practice problem and the qualification round of the [HashCode](https://codingcompetitions.withgoogle.com/hashcode/about/) 2020 organized by Google.
-
-All programs are written with [Python](https://www.python.org/) version 3.
-Only one package is required: [tqdm](https://pypi.org/project/tqdm/)
-</br>
-Command to install the package  : `pip install tqdm`
-
-## Practice Problem 🍕🍕🍕
+## Practice Problem :pizza: :pizza: :pizza:
 
 ### [Problem description](./src/PracticeProblem/practice_problem.pdf)
 
@@ -65,7 +51,7 @@ Scores are those calculated by the Judge System of the HashCode.
 </center>
 </br>
 
-## Online Qualification Round 📘📕📗
+## Online Qualification Round :blue_book: :green_book: red_book:
 
 ### [Problem Description](./src/QualificationRound/hashcode_2020_online_qualification_round.pdf)
 
