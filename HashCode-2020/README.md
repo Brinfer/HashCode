@@ -26,7 +26,7 @@ I repeat this operation several times and keep only the list that earns me the m
 The number of pizzas does not allow me to test all the combinations, so the score will not necessarily be the same if you run the program several times on the same file (the number of possible combinations is a factorial function).
 
 To start the program, open a terminal in this current folder and enter in this terminal the command :
-`python ./src/QualificationRound/main.py`
+`python ./HashCode-2020/src/QualificationRound/main.py`
 
 ### The extra
 
@@ -51,7 +51,7 @@ Scores are those calculated by the Judge System of the HashCode.
 </center>
 </br>
 
-## Online Qualification Round :blue_book: :green_book: :red_book:
+## Online Qualification Round :blue_book: :green_book: :orange_book:
 
 ### [Problem Description](./src/QualificationRound/hashcode_2020_online_qualification_round.pdf)
 
@@ -71,7 +71,7 @@ Towards the end of the allotted time, it is not necessarily possible to retrieve
 The score at each launch of the program will always be the same.
 
 To start the program, open a terminal in this current folder and enter in this terminal the command :
-`python ./src/PracticeProblem/main.py`
+`python ./HashCode-2020/src/PracticeProblem/main.py`
 
 ### Max Score
 
