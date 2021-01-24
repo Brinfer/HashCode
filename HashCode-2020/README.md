@@ -51,7 +51,7 @@ Scores are those calculated by the Judge System of the HashCode.
 </center>
 </br>
 
-## Online Qualification Round :blue_book: :green_book: red_book:
+## Online Qualification Round :blue_book: :green_book: :red_book:
 
 ### [Problem Description](./src/QualificationRound/hashcode_2020_online_qualification_round.pdf)
 
