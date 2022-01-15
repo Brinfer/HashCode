@@ -6,7 +6,7 @@ import platform as plt
 import time as time
 
 """ Path to text files containing input information . """
-PATH_INPUT_FOLDER = "./HashCode-2020/src/QualificationRound/Input/"
+PATH_INPUT_FOLDER = "./Input/"
 PATH_INPUT_1 = "a_example.txt"
 PATH_INPUT_2 = "b_read_on.txt"
 PATH_INPUT_3 = "c_incunabula.txt"
@@ -15,7 +15,7 @@ PATH_INPUT_5 = "e_so_many_books.txt"
 PATH_INPUT_6 = "f_libraries_of_the_world.txt"
 
 """ Path to text files containing output information (pizza list) """
-PATH_OUTPOUT_FOLDER = "./HashCode-2020/src/QualificationRound/Output/"
+PATH_OUTPOUT_FOLDER = "./Output/"
 PATH_OUTPUT_1 = "A_output.txt"
 PATH_OUTPUT_2 = "B_output.txt"
 PATH_OUTPUT_3 = "C_output.txt"
