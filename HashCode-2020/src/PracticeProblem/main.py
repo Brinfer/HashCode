@@ -6,7 +6,7 @@ import tqdm as tqdm
 
 
 """ Path to text files containing input information . """
-PATH_INPUT_FOLDER = "./HashCode-2020/src/PracticeProblem/Input/"
+PATH_INPUT_FOLDER = "./Input/"
 PATH_INPUT_1 = PATH_INPUT_FOLDER + "a_example.in"
 PATH_INPUT_2 = PATH_INPUT_FOLDER + "b_small.in"
 PATH_INPUT_3 = PATH_INPUT_FOLDER + "c_medium.in"
@@ -14,7 +14,7 @@ PATH_INPUT_4 = PATH_INPUT_FOLDER + "d_quite_big.in"
 PATH_INPUT_5 = PATH_INPUT_FOLDER + "e_also_big.in"
 
 """ Path to text files containing output information (pizza list) """
-PATH_OUTPUT_FOLDER = "./HashCode-2020/src/PracticeProblem/Output/"
+PATH_OUTPUT_FOLDER = "./Output/"
 PATH_OUTPUT_1 = PATH_OUTPUT_FOLDER + "a_output.txt"
 PATH_OUTPUT_2 = PATH_OUTPUT_FOLDER + "b_output.txt"
 PATH_OUTPUT_3 = PATH_OUTPUT_FOLDER + "c_output.txt"
@@ -52,8 +52,8 @@ MAXTEST = 300000
 sumScoreOld = 0
 __listPizza = []
 listSelectedPizza = []
-nbPeople = 0 
-sumNewScore = 0 
+nbPeople = 0
+sumNewScore = 0
 
 
 def main(pathInput: str, pathOutput: str):
@@ -228,7 +228,7 @@ def checkListSelectedPizza(listPizza: list) -> str:
     if TEST:
         error = ""
         listPizza = list(map(int, listPizza))
-        
+
         comptPart = 0
         listPizzaOrdered = []
         for k in listPizza:
