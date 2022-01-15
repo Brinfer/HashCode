@@ -31,7 +31,6 @@ Scores are those calculated by the Judge System of the HashCode.
 | c_coarse.in    |               10                |                     |              |
 | d_difficult.in |              9 368              |                     |              |
 | e_elaborate.in |              4 986              |                     |              |
-|                |                                 |                     |              |
-|                |            __TOTAL__            |                     |              |
+| __TOTAL__      |             14 372              |                     |              |
 
 </center>
