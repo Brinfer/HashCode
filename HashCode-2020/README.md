@@ -25,9 +25,6 @@ I repeat this operation several times and keep only the list that earns me the m
 
 The number of pizzas does not allow me to test all the combinations, so the score will not necessarily be the same if you run the program several times on the same file (the number of possible combinations is a factorial function).
 
-To start the program, open a terminal in this current folder and enter in this terminal the command :
-`python ./HashCode-2020/src/QualificationRound/main.py`
-
 ### The extra
 
 It is very easy to test the results, therefore it is a part of the program to test and count the score of an output file.
@@ -69,9 +66,6 @@ The list of its `Book` class are marked as __already borrowed__, and the next da
 Towards the end of the allotted time, it is not necessarily possible to retrieve all the books from the libraries, the one from which it is possible to retrieve all the books are favored.
 
 The score at each launch of the program will always be the same.
-
-To start the program, open a terminal in this current folder and enter in this terminal the command :
-`python ./HashCode-2020/src/PracticeProblem/main.py`
 
 ### Max Score
 
